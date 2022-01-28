@@ -36,7 +36,7 @@ Ao realizar uma requisição <b>(GET)</b> com o valor em reais que você quer co
 <h2>Clone o Repositório:</h2>
 
 ````bash
-$ git clone https://github.com/lhonrio/DesafioGrupoSBF.git
+$ git clone https://github.com/lhonrio/currency-converter.git
 ````
 <h3><b>OBS:</h3></b> Após rodar a aplicação a mesma será iniciada na porta 5000. </br>
 </br>Para conferir o funcionamento da API utilize o Postman ou um aplicativo de sua preferencia com a seguinte URL: https://127.0.0.1:5000/converter
